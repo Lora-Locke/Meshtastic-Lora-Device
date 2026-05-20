@@ -64,8 +64,11 @@ The first attempt. Functional, but at 105mm x 45mm x 50mm it was more portable s
 Rotated the internal layout so the battery board and LoRa module sit side by side instead of on top of each other. Result: 130mm x 50mm x 35mm — noticeably slimmer and much more natural to hold. A SolidWorks force study was also run on this design to simulate drop loading and identify stress concentration points at the enclosure corners.
 
 ![Design 2 CAD](images/design2_cad.png)
+![Design 2 CAD](images/design22_cad.png)
 ![Design 2 Force Study](images/design2_force_study.png)
+![Design 2 Force Study](images/design22_force_study.png)
 ![Design 2 Sketch](images/design2_sketch.png)
+![Design 2 Sketch2](images/design22_sketch.png)
 
 ### Design 3 — The One That Actually Works ✅
 Same dimensions as Design 2 but with two key improvements:
